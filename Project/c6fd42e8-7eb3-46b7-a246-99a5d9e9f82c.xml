@@ -1,3 +1,5 @@
 [SLWD version=1.0]
 _EN=Variables
 +GN=VAR_GLOBAL	GVT=GlobalNamespaceGroup
+++D=BOOL	N=WorkDetect	G=VAR_GLOBAL
+++D=BOOL	N=LightLamp	G=VAR_GLOBAL

@@ -2,3 +2,5 @@
 _EN=Variables
 +GN=VAR	GVT=DefaultGroup
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
+++D=BOOL	N=WorkDetect	G=VAR_EXTERNAL
+++D=BOOL	N=LightLamp	G=VAR_EXTERNAL
